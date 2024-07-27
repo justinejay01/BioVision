@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 50371b160172d8141b5334c3ae00a4ff
+  - enabled: 1
+    path: Assets/Scenes/LMSNotice.unity
+    guid: 7490a9e5b69a0d3449e1c499695dfcea
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: d403e2a7e9ab1434489ef8b494ec1f95
+  - enabled: 1
+    path: Assets/Scenes/CellAR.unity
+    guid: 13c426b14002c4c41b4bce9201d883d8
+  - enabled: 1
+    path: Assets/Scenes/Cell3D.unity
+    guid: 2e986621883811847a5aba734b07480d
+  - enabled: 1
+    path: Assets/Scenes/Cells.unity
+    guid: 314298d49e6b74549aa8eb9ff79a4bbe
+  - enabled: 1
+    path: Assets/Scenes/QuizOptions.unity
+    guid: 059e6ad07bd4d354e8d3a219e86c152a
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: b39044257f07ea54eafcc3b23f69aa55
+  - enabled: 1
+    path: Assets/Scenes/StartQuiz.unity
+    guid: 0a05caefc0379c44b88a2e73f0baed9c
+  - enabled: 1
+    path: Assets/Scenes/InstructMats.unity
+    guid: 7a7cd46476cd4e540bc7a28e3bf601b5
+  - enabled: 1
+    path: Assets/Scenes/CellARGround.unity
+    guid: 991f716c6a452d3409fdb1c871dad290
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: a1c05cfed85c40940a13379d66d6866b, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 509437df790c3014ab22c02a5001130e, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 87ecf46ed378dba458a7f0dc2bd6f6f6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6041f557a8d617740912e4df8413c18a, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7a851e06dd6af7b4eb221d00dad42e0f, type: 2}

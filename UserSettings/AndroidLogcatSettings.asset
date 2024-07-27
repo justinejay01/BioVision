@@ -1,0 +1,304 @@
+{
+    "m_SelectedDeviceId": "192.168.208.62:41141",
+    "m_SelectedProcess": {
+        "deviceId": "192.168.208.62:41141",
+        "name": "com.ITCapsAW06.BioVision",
+        "processId": 23860,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "192.168.1.227:39357",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 12620,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:39357",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 8344,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 26313,
+            "exited": true
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "app.revanced.android.youtube",
+            "processId": 27447,
+            "exited": true
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 3441,
+            "exited": true
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 26134,
+            "exited": true
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "app.revanced.android.youtube",
+            "processId": 25987,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 21282,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 32461,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 16148,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 5709,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 10799,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 6036,
+            "exited": false
+        },
+        {
+            "deviceId": "129a1890",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 25524,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43495",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 11541,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43495",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 28666,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:41973",
+            "name": "com.android.settings",
+            "processId": 20732,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:41973",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 11376,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:41441",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 11376,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:41441",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 3567,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43267",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 3567,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43267",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 16000,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:42031",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 14362,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:41917",
+            "name": "com.android.settings",
+            "processId": 17832,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:41917",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 32535,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43265",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 31737,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43265",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 11466,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43265",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 21132,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43265",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 32178,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43265",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 13995,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:43265",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 929,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:40595",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 15361,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.227:42391",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 13123,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.208.62:38421",
+            "name": "com.oplus.wirelesssettings",
+            "processId": 9953,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.208.62:41141",
+            "name": "com.ITCapsAW06.BioVision",
+            "processId": 23860,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 1
+}
