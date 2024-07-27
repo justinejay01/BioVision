@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kerbs_Cycle" size="1.000000 0.979008" />
+    <ImageTarget name="Active_Transport" size="1.000000 2.054688" />
+    <ImageTarget name="Glycolysis" size="1.000000 0.752976" />
+    <ImageTarget name="Photosynthesis" size="1.000000 0.520833" />
+    <ImageTarget name="Chloroplast" size="1.000000 1.333938" />
+    <ImageTarget name="Coupling" size="1.000000 0.498447" />
+    <ImageTarget name="ATP-ATD" size="1.000000 0.547855" />
+    <ImageTarget name="Vesicular_Transport" size="1.000000 1.000000" />
+    <ImageTarget name="Diffusion" size="1.000000 0.787425" />
+    <ImageTarget name="Meiosis" size="1.000000 0.770186" />
+    <ImageTarget name="Mitosis" size="1.000000 0.411160" />
+    <ImageTarget name="Cell_Control" size="1.000000 0.763750" />
+    <ImageTarget name="Cell_Cycle" size="1.000000 0.935897" />
+    <ImageTarget name="White_Blood_Cells" size="1.000000 1.038640" />
+    <ImageTarget name="Red_Blood_Cells" size="1.000000 1.000000" />
+    <ImageTarget name="Prokaryotic_Cell" size="1.000000 1.269841" />
+    <ImageTarget name="Eukaryotic_Cell" size="1.000000 0.900855" />
+  </Tracking>
+</QCARConfig>
